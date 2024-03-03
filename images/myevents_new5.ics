@@ -26,8 +26,7 @@ DTSTAMP:20240303T164818Z
 DTSTART;TZID=Europe/Berlin:20240720T170000
 DTEND;TZID=Europe/Berlin:20240721T020000
 SUMMARY:Federica e Filippo sposi
-DESCRIPTION:https://www.federicaefilippo.com
-URL:https://www.federicaefilippo.com
+DESCRIPTION:Più info su https://www.federicaefilippo.com
 LOCATION:Castello di Cafaggio\, Via del Ferrone\, 58\, 50023 Impruneta FI
 TRANSP:OPAQUE
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
