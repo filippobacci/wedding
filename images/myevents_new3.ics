@@ -33,7 +33,7 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 CLASS:PRIVATE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Federica e Filippo sposi - https://www.federicaefilippo.com
+DESCRIPTION:https://www.federicaefilippo.com
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
