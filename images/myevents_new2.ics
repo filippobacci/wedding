@@ -1,6 +1,5 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//ical.marudot.com//iCal Event Maker
 CALSCALE:GREGORIAN
 BEGIN:VTIMEZONE
 TZID:Europe/Berlin
@@ -24,12 +23,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP:20240303T164818Z
-UID:1709484430634-22960@ical.marudot.com
 DTSTART;TZID=Europe/Berlin:20240720T170000
 DTEND;TZID=Europe/Berlin:20240721T020000
 SUMMARY:Federica e Filippo sposi
 URL:https://www.federicaefilippo.com
-LOCATION:Castello di Cafaggio, Via del Ferrone, 58, 50023 Impruneta FI
+LOCATION:Castello di Cafaggio\, Via del Ferrone\, 58\, 50023 Impruneta FI
 TRANSP:OPAQUE
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 CLASS:PRIVATE
